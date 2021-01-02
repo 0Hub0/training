@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/robots/static/css/main.7951408a.chunk.css",
-    "main.js": "/robots/static/js/main.4b9703dc.chunk.js",
-    "main.js.map": "/robots/static/js/main.4b9703dc.chunk.js.map",
-    "runtime-main.js": "/robots/static/js/runtime-main.13cc6931.js",
-    "runtime-main.js.map": "/robots/static/js/runtime-main.13cc6931.js.map",
-    "static/css/2.31461e4f.chunk.css": "/robots/static/css/2.31461e4f.chunk.css",
-    "static/js/2.47471d03.chunk.js": "/robots/static/js/2.47471d03.chunk.js",
-    "static/js/2.47471d03.chunk.js.map": "/robots/static/js/2.47471d03.chunk.js.map",
-    "static/js/3.a9a30be7.chunk.js": "/robots/static/js/3.a9a30be7.chunk.js",
-    "static/js/3.a9a30be7.chunk.js.map": "/robots/static/js/3.a9a30be7.chunk.js.map",
-    "index.html": "/robots/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/robots/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.7951408a.chunk.css.map": "/robots/static/css/main.7951408a.chunk.css.map",
-    "static/js/2.47471d03.chunk.js.LICENSE.txt": "/robots/static/js/2.47471d03.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/robots/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/training/rbfriends/static/css/main.36e90d25.chunk.css",
+    "main.js": "/training/rbfriends/static/js/main.4b9703dc.chunk.js",
+    "main.js.map": "/training/rbfriends/static/js/main.4b9703dc.chunk.js.map",
+    "runtime-main.js": "/training/rbfriends/static/js/runtime-main.05c469aa.js",
+    "runtime-main.js.map": "/training/rbfriends/static/js/runtime-main.05c469aa.js.map",
+    "static/css/2.31461e4f.chunk.css": "/training/rbfriends/static/css/2.31461e4f.chunk.css",
+    "static/js/2.47471d03.chunk.js": "/training/rbfriends/static/js/2.47471d03.chunk.js",
+    "static/js/2.47471d03.chunk.js.map": "/training/rbfriends/static/js/2.47471d03.chunk.js.map",
+    "static/js/3.a9a30be7.chunk.js": "/training/rbfriends/static/js/3.a9a30be7.chunk.js",
+    "static/js/3.a9a30be7.chunk.js.map": "/training/rbfriends/static/js/3.a9a30be7.chunk.js.map",
+    "index.html": "/training/rbfriends/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/training/rbfriends/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.36e90d25.chunk.css.map": "/training/rbfriends/static/css/main.36e90d25.chunk.css.map",
+    "static/js/2.47471d03.chunk.js.LICENSE.txt": "/training/rbfriends/static/js/2.47471d03.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/training/rbfriends/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.13cc6931.js",
+    "static/js/runtime-main.05c469aa.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.47471d03.chunk.js",
-    "static/css/main.7951408a.chunk.css",
+    "static/css/main.36e90d25.chunk.css",
     "static/js/main.4b9703dc.chunk.js"
   ]
 }
